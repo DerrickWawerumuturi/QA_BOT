@@ -41,6 +41,7 @@ python qa_bot.py
 ```
 
 ## 📂 Project Structure
+```
 QA_BOT/
 │── main.py               # Entry point for the bot
 │── model/                # Model files and utilities
@@ -48,7 +49,7 @@ QA_BOT/
 │── README.md             # Documentation
 │── data/                 # (Optional) dataset storage
 
-
+```
 ## 🧠 How It Works
 1.User Input – The bot takes a natural language question.
 
